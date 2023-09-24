@@ -1,6 +1,6 @@
 # Book-Store 
 Fitur-fitur yang ada dalam program :
--  Menampilkan list buku dari database
+-. Menampilkan list buku dari database
 Data buku diambil dari file COMICS.txt, EDUKASI.txt, MAJALAH.txt, NOVEL.txt dan RELIGI.txt
 
 -. Beli buku (mendata pembelian)
