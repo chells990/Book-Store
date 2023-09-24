@@ -1,0 +1,2 @@
+Dilan|100000|0|Penerbit CB|Penulis AC|0|A001
+Oregairu|25000|15000|Penerbit CA|Penulis CC|5|A002

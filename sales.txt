@@ -1,0 +1,101 @@
+Tampilkan data pembeli? (Y/N): n
+Laporan Penjualan Berdasarkan Buku Terpopuler
+Total Pendapatan       : Rp.155000
+
+Buku Ke          : 1
+Genre            : Novel
+Judul - Kode     : Oregairu - A002
+Terjual          : 5
+Total Harga      : Rp.65000
+
+
+Buku Ke          : 2
+Genre            : Komik
+Judul - Kode     : The Avengers - B003
+Terjual          : 1
+Total Harga      : Rp.40000
+
+
+Buku Ke          : 3
+Genre            : Edukasi
+Judul - Kode     : Kamus IND-ENG - D001
+Terjual          : 1
+Total Harga      : Rp.50000
+
+
+Buku Ke          : 4
+Genre            : Edukasi
+Judul - Kode     : Kamus IND-JPG - D002
+Terjual          : 0
+Total Harga      : Rp.0
+
+
+Buku Ke          : 5
+Genre            : Edukasi
+Judul - Kode     : Atlas - D003
+Terjual          : 0
+Total Harga      : Rp.0
+
+
+Buku Ke          : 6
+Genre            : Edukasi
+Judul - Kode     : Calculus - D004
+Terjual          : 0
+Total Harga      : Rp.0
+
+
+Buku Ke          : 7
+Genre            : Majalah
+Judul - Kode     : Boboho - E001
+Terjual          : 0
+Total Harga      : Rp.0
+
+
+Buku Ke          : 8
+Genre            : Novel
+Judul - Kode     : Dilan - A001
+Terjual          : 0
+Total Harga      : Rp.0
+
+
+Buku Ke          : 9
+Genre            : Komik
+Judul - Kode     : Naruto - B001
+Terjual          : 0
+Total Harga      : Rp.0
+
+
+Buku Ke          : 10
+Genre            : Komik
+Judul - Kode     : One piece - B002
+Terjual          : 0
+Total Harga      : Rp.0
+
+
+Buku Ke          : 11
+Genre            : Komik
+Judul - Kode     : Emergence - B004
+Terjual          : 0
+Total Harga      : Rp.0
+
+
+Buku Ke          : 12
+Genre            : Komik
+Judul - Kode     : Noragami - B005
+Terjual          : 0
+Total Harga      : Rp.0
+
+
+Buku Ke          : 13
+Genre            : Religi
+Judul - Kode     : Al-Qur'an - D001
+Terjual          : 0
+Total Harga      : Rp.0
+
+
+Buku Ke          : 14
+Genre            : Religi
+Judul - Kode     : Akitab - D002
+Terjual          : 0
+Total Harga      : Rp.0
+

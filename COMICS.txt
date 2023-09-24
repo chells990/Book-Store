@@ -1,0 +1,5 @@
+Naruto|30000|28000|Penerbit Surya|Penulis ABC|0|B001
+One piece|35000|34000|Penerbit C|Penulis BC|0|B002
+The Avengers|40000|0|Penerbit CC|Penulis D|1|B003
+Emergence|40000|1000|Penerbit CC|Shindo L|0|B004
+Noragami|40000|1000|Penerbit CC|Shindo L|0|B005

@@ -1,0 +1,4 @@
+Kamus IND-ENG|50000|0|Penerbit ABC|Penulis CA|3|D001
+Kamus IND-JPG|50000|0|Penerbit ABC|Penulis CA|1|D002
+Atlas|40000|0|Penerbit ABC|Penulis CB|1|D003
+Calculus|60000|0|Penerbit BC|Penulis CA|0|D004
